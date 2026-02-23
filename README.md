@@ -14,7 +14,4 @@ This project focuses on the supervised binary classification of breast mass char
 * **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 * **Algorithms:** SVM (RBF), Random Forest, KNN, Logistic Regression
 
-## Visuals
-| ROC Curve | Confusion Matrix |
-| :---: | :---: |
-| ![ROC Curve](https://via.placeholder.com/300x200?text=ROC+Curve+Plot) | ![Confusion Matrix](https://via.placeholder.com/300x200?text=Confusion+Matrix) |
+
